@@ -1,0 +1,3 @@
+SELECT * FROM PRODUTO;
+
+UPDATE produto SET preco = 13.50 WHERE id = 1;
